@@ -1,0 +1,6 @@
+The required Python version for TensorFlow to operate is version 3.11.0.
+
+The necessary modules include TensorFlow, matplotlib, numpy and Pillow.
+
+
+I did not add the flower pictures and test folder
